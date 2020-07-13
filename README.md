@@ -13,7 +13,7 @@ Estilo de código PHP para projetos do PicPay usando [PHP_CodeSniffer Standards 
 "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/PicPay/picpay-dev-php-common-lib.git"
+            "url": "https://github.com/PicPay/picpay-dev-php-code-style.git"
         }
 ]        
 ```
