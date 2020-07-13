@@ -6,7 +6,7 @@ Estilo de código PHP para projetos do PicPay usando [PHP_CodeSniffer Standards 
 
 1 - Adicione no composer.json 
 
-```
+```json
 "require-dev": {
      "picpay/picpay-php-enqueue-connector": "1.0.*"
 },
@@ -19,7 +19,8 @@ Estilo de código PHP para projetos do PicPay usando [PHP_CodeSniffer Standards 
 ```
 
 2 - Crie um arquivo codesize.xml na raiz do projeto
-```
+
+```xml
 <?xml version="1.0"?>
 <ruleset>
     <arg name="basepath" value="."/>
