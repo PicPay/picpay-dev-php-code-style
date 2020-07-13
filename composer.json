@@ -1,0 +1,23 @@
+{
+    "name": "picpay/code-style",
+    "description": "PicPay code style for PHP",
+    "type": "phpcodesniffer-standard",
+    "license": "MIT",
+    "keywords": [
+        "picpay",
+        "php",
+        "coding",
+        "standard",
+        "code",
+        "style"
+    ],
+    "require": {
+        "php": "^7.0",
+        "dealerdirect/phpcodesniffer-composer-installer": "^0.5.0",
+        "slevomat/coding-standard": "^5.0.4",
+        "squizlabs/php_codesniffer": "^3.4.2"
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
