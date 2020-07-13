@@ -1,7 +1,10 @@
 # picpay-dev-php-code-style
-Estilo de código PHP para projetos do PicPay
+Estilo de código PHP para projetos do PicPay usando [PHP_CodeSniffer Standards Composer Installer Plugin](https://github.com/Dealerdirect/phpcodesniffer-composer-installer)
+
 
 # Como usar
+
+1 - Adicione no composer.json 
 
 ```
 "require-dev": {
@@ -13,4 +16,8 @@ Estilo de código PHP para projetos do PicPay
             "url": "https://github.com/PicPay/picpay-dev-php-common-lib.git"
         }
 ]        
+```
+
+2 - Crie um arquivo codesize.xml na raiz do projeto
+```
 ```
