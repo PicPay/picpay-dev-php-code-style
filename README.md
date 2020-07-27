@@ -8,7 +8,7 @@ Estilo de código PHP para projetos do PicPay usando [PHP_CodeSniffer Standards 
 
 ```json
 "require-dev": {
-     "picpay/picpay-php-enqueue-connector": "1.0.*"
+     "picpay/picpay-dev-php-code-style": "1.0.*"
 },
 "repositories": [
         {
