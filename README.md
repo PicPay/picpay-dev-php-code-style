@@ -40,3 +40,10 @@ Estilo de código PHP para projetos do PicPay usando [PHP_CodeSniffer Standards 
 
 </ruleset>
 ```
+3 - Veja se foi instalado corretamente
+```
+./vendor/bin/phpcs -i
+```
+
+
+![image](https://user-images.githubusercontent.com/18670067/88567067-59ebcf80-d00d-11ea-8fcb-eec1140e5c70.png)
