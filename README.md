@@ -36,7 +36,7 @@ Estilo de código PHP para projetos do PicPay usando [PHP_CodeSniffer Standards 
     <file>tests</file>
 
     <rule ref="PicPay"/>
-    <!-- Alguma regra customizada do sue projeto -->
+    <!-- Alguma regra customizada do seu projeto -->
 
 </ruleset>
 ```
